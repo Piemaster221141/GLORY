@@ -1,7 +1,4 @@
---hello, 
---Due to a recent incident involving chadrey, a former dev for GLORY, the script is noww open source.
---have fun!
--- by chadrey, i just removed the logger.
+-- updated to latest game patch
 
 
 
@@ -2419,3 +2416,12 @@ Combat.open_tab()
 library:config_list_update()
 
 library.old_config = library:get_config()
+
+
+
+
+
+
+
+
+--lol hi
